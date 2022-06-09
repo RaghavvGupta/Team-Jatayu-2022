@@ -1,0 +1,1 @@
+This code was used in FMAE event where our team stood 1st in overall standing. It's a compilation code of OLED, Flowmeter and Hall effect. Flowmeter was used to determine the fuel level, hall effect for speed determination of the vehicle and OLED to display live data to driver as well as long range transmission to transmit the same to the pit.   

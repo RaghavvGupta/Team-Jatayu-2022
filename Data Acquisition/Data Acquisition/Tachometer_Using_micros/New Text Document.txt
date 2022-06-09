@@ -1,0 +1,1 @@
+This code is used to interface the hall effect sensor to work like a speedometer. Code is versatile and can be modified by any layman to meet desired scenarion eg.- low RPM/high RPM, number of pulses by magnets etc to determine the vehicle speed.

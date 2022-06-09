@@ -1,0 +1,1 @@
+Load cell was used to determine the force being exerted by the driver on brake pedal during diffrent driving scenarios. We used a cantelliver loadcell and HX-711 amplifier along with arduino uno to achieve the desired setup.

@@ -1,0 +1,1 @@
+This setup provided an automated way of measuring the total time taken by vehicle to cover 100m. This same process was carried out manually by two members of team. Manual method was labour intesive and was prone to errors. New setup solved all these problems. Two ultrasonic sensors along with two arduinos working in each others accordance.
